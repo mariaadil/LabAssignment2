@@ -1,0 +1,23 @@
+body {
+  background-color: black; 
+  color: white; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+code {
+ 
+}
+
+.studentprofile{
+  background-color: aliceblue;
+  color: black;
+}
+
+#studentdata{
+  background-color:blueviolet;
+  color:white;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2px;
+}
